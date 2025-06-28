@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="nl">
+  
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S.O.S.</title>
+   <link rel="stylesheet" href="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kimeiga/bahunya@css/bahunya-0.1.3.css"/>" type="text/css">
+   
+ <style>  
+     body {
+        font-size: 18px;
+        color: 	#CD5C5C;
+        background-color: #2e2e39;
+        text-align: center; 
+      }
+      h1 {
+        font-size: 55px;
+        color: 	#9f2200;
+        text-align: center; 
+        background-color: transparent;
+        padding: 20px;
+        border: double 30px;
+      }
+     
+        img {
+            width: 400px; 
+            height: auto;
+        }
+      u {    
+    border-bottom: 7px dotted #000000;
+    text-decoration: none;
+      }
+      A {
+      color: #c4a609;
+      }
+ </style>
+ 
+ </head>
+  
+  <body>
+    <h1><u>My survival necessity</u></h1>
+    <p><P STYLE="background-color: #6a0c0c
+; padding: 8px; border: double 7px #000000;">
+    <strong>Friends & dance</strong></P>
+    </p>
+
+    <p><br> Without it id be gone
+        <br> Gone as in heart dead
+        <br> Depression, only seeing the dark side.</p>
+    <p> Not my name gone
+        <br> There would be me,
+        <br> hiding in a perfect picture girl
+        <br> Hiding behind beauty because my inside is ugly,
+        <br> ugly and dead nothing more </p>
+        
+    <p><br><br> Without it,
+    	<br> I would close up
+        <br> I would have no reason to wake up
+        <br> To live </p>
+    <p> To face the ugly reality of this world
+    	<br> I would close myself of from the world
+        <br> so no one could come in,
+        <br> not even air
+        <br> But also so no one could come out
+        <br> not even me </p>
+        
+    <p><br><br> Yet even with it
+    	<br> I hide behind the skin 
+        <br> so no one sees the dieing body underneath
+        <br> Scared for anyone to see the real me
+        <br> To see me like i do </p>
+    <p> I circle in my thoughts like a tornado
+    	<br> Unable to get myself out
+        <br> Or let anyone else do so
+        <br> The longer,
+        <br> the more hurt i am,
+        <br> and the harder it gets
+        <br> But friends and dance pull me out
+        <br> Tho i push them aways with exhaustion </p>
+        
+    <p><br><br> That's why winterbreak kills me slowly </p>
+    <p> Because no one pulls me out
+        <br> Because i dont see the light in life anymore
+        <br> Because i get socially exhausted
+        <br> Because the days get shorter
+        <br> and the dark nights full of thoughts get longer
+        <br> trying to keep you
+        <br> not wanting to let you go </p>
+        
+    <p> Because I don't have a reason to wake up
+    	<br> Only to hide behind a person i don't know
+        <br> To act happy and be around
+        <br> Look alive and nothing more
+        <br> Not for me
+        <br> Only for the fate of my surroundings </p>
+        
+    <p><br><br> And what hurts the most, is that it's al my fault
+    	<br> I can't blame anyone
+        <br> It's not my parents who were abusive
+        <br> It's not my friends that weren't really
+        <br> It's not school who burns me out or past trauma </p>
+    <p> They keep me standing
+    	<br> and give me a purpose of living
+        <br> I am the one hurting and killing myself
+        <br> Eating me up untill nothing is left inside
+        <br> Just the shell standing and keeping the truth covered
+        <br> I can't walk away of the one hurting me
+        <br> I can't blame, only myself </p>
+        
+    <p><P STYLE="background-color: #6a0c0c
+; padding: 8px; border: double 7px #000000;">
+    <strong> It's like a never ending tunnel 
+    		<br> it just keeps going and going 
+            <br> while you get deeper and deeper
+            <br> starting to lose the sight of the entry
+            <br> searching for the none existing exit.</strong></P>
+    </p>
+
+        
+    
+        
+        
+
+   <script src="index.js"></script>
+  </body>
+</html>
