@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="nl">
+  
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S.O.S.</title>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Kimeiga/kacit/kacit.min.css" type="text/css">
+   
+ <style>  
+     body {
+        font-size: 18px;
+        color: 	#CD5C5C;
+        background-color: #fbe0b8;
+        text-align: center; 
+      }
+      h1 {
+        font-size: 55px;
+        color: 	#8B0000;
+        text-align: center; 
+        background-color: transparent;
+        padding: 20px;
+        border: double 30px;
+      }
+      h2 {
+        font-size: 40px;
+        color: 	#B22222;
+        text-align: center; 
+      }
+     
+        img {
+            width: 400px; 
+            height: auto;
+        }
+      u {    
+    border-bottom: 7px dotted #556B2F;
+    text-decoration: none;
+      }
+      A {
+      color: #c4a609;
+      }
+ </style>
+ 
+ </head>
+  
+  <body>
+    <h1>My survival necessity</h1>
+    <p><P STYLE="background-color: #f4cc51
+; padding: 8px; border: double 7px #fbe0b8;">
+    <strong>Friends & dance</strong></P>
+    </p>
+
+    <p><br>Without it id be gone
+        <br> Gone as in heart dead
+        <br> Depression, only seeing the dark side.</p>
+    <p><br>Not my name gone
+        <br> There would be me,
+        <br> hiding in a perfect picture girl
+        <br> Hiding behind beauty because my inside is ugly,
+        <br> ugly and dead nothing more </p>
+
+   <script src="index.js"></script>
+  </body>
+</html>
